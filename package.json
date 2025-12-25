@@ -1,0 +1,14 @@
+{
+  "name": "FirstServer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Younas Wazir",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
